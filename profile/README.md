@@ -21,9 +21,8 @@ We're building a goal tracking platform specifically designed for ADHD, autistic
 
 | Repository | Description | Visibility |
 |------------|-------------|------------|
-| **[d8progress-platform](https://github.com/D8Progress/d8progress-platform)** | Main application codebase (Angular + FeathersJS) | 🔒 Private |
+| **[d8progress-platform](https://github.com/D8Progress/d8progress-platform)** | Main application codebase (Angular + FeathersJS + MCP server) | 🔒 Private |
 | **[d8-community](https://github.com/D8Progress/d8-community)** | Community hub, discussions, and user-facing issues | 🌍 Public |
-| **[d8progress-mcp](https://github.com/D8Progress/d8progress-mcp)** | Model Context Protocol server for AI development | 🌍 Public |
 
 ---
 
